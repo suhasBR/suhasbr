@@ -19,7 +19,7 @@ function projects() {
                         importance today for applications that promise privacy and anonymity to its users.
                         However, often there is a need for these applications to confirm if their users are authentic, i.e,
                         probably belong to a certain group or an organization. One of the possible methods to confirm this
-                        would be to verify the user's email, without compromising on the user's anonymity.
+                        would be to verify the users email, without compromising on the users anonymity.
                         zkEmailAuth project aims to achieve the same.</p>
                     <Link href="https://github.com/suhasBR/zku-final-project" passHref={true}>
                         <p className='break-all text-base text-indigo-600 cursor-pointer'>https://github.com/suhasBR/zku-final-project</p>
