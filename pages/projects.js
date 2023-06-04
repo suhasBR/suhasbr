@@ -11,6 +11,31 @@ function projects() {
                 <h1 className='text-3xl text-black font-semibold'>Recent Projects</h1>
 
                 <div className='w-full my-8 flex flex-col items-start'>
+                    <Link href="https://colllabdocs-v2.vercel.app/" passHref={true}>
+                        <h2 className='text-xl text-sky-500 tracking-wide cursor-pointer'>CollabDocs</h2>
+                    </Link>
+                    <p className='text-base my-2'>AI powered tools for better education</p>
+                    <p className='text-base'>AI-powered education tool that helps schools and colleges deliver 
+                    better learning experiences. The platform integrates 
+                    AI into classrooms, providing adaptive quizzes, self-help bots, and more</p>
+                    <Link href="https://colllabdocs-v2.vercel.app/" passHref={true}>
+                        <p className='break-all text-base text-indigo-600 cursor-pointer'>https://colllabdocs-v2.vercel.app/</p>
+                    </Link>
+                </div>
+
+                <div className='w-full my-8 flex flex-col items-start'>
+                    <Link href="https://technologydao.xyz/" passHref={true}>
+                        <h2 className='text-xl text-sky-500 tracking-wide cursor-pointer'>TechnologyDAO</h2>
+                    </Link>
+                    <p className='text-base my-2'>Publish AI augmented articles and earn tokens</p>
+                    <p className='text-base'>echnologyDAO is a decentralized community / platform that allows you to publish AI augmented articles. 
+                    You can earn money by publishing articles and contributing to the platform</p>
+                    <Link href="https://technologydao.xyz/" target="_blank" passHref={true}>
+                        <p className='break-all text-base text-indigo-600 cursor-pointer'>https://technologydao.xyz/</p>
+                    </Link>
+                </div>
+
+                <div className='w-full my-8 flex flex-col items-start'>
                     <Link href="https://github.com/suhasBR/zku-final-project" passHref={true}>
                         <h2 className='text-xl text-sky-500 tracking-wide cursor-pointer'>zkEmailAuth</h2>
                     </Link>
