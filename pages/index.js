@@ -46,12 +46,12 @@ export default function Home() {
             <img className="w-[1.4rem] mx-4 cursor-pointer" src="logos/github.png" alt="linkedin" />
           </Link>
 
-          <Link target="_blank"
+          {/* <Link target="_blank"
             href="https://twitter.com/techsuhas_br"
             passHref={true}
           >
             <img className="w-[1.4rem] mx-4 cursor-pointer" src="logos/x.png" alt="linkedin" />
-          </Link>
+          </Link> */}
 
           {/* <Link href="https://github.com/suhasBR/zku-final-project"
               passHref={true}> <img src='in.png' alt='linkedin' /></Link>

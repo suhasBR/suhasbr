@@ -13,7 +13,7 @@ function projects() {
         <div className="mt-20 mb-8 md:my-24 lg:my-24 xl:my-24 w-full flex flex-col md:flex-row lg:flex-row xl:flex-row justify-evenly">
           <div className="w-full my-8 flex flex-col items-start md:w-[30%] lg:w-[30%] xl:w-[30%]">
             <Link href="https://colllabdocs-v2.vercel.app/" passHref={true}>
-              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-extrabold tracking-wide cursor-pointer">
+              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-bold tracking-wide cursor-pointer">
                 CollabDocs
               </h2>
             </Link>
@@ -41,7 +41,7 @@ function projects() {
         <div className="my-8 md:my-24 lg:my-24 xl:my-24 w-full flex flex-col md:flex-row lg:flex-row xl:flex-row justify-evenly">
           <div className="w-full my-8 flex flex-col items-start md:w-[30%] lg:w-[30%] xl:w-[30%]">
             <Link href="https://technologydao.xyz/" passHref={true}>
-            <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-extrabold tracking-wide cursor-pointer">
+            <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-bold tracking-wide cursor-pointer">
                 TechnologyDAO
               </h2>
             </Link>
@@ -76,7 +76,7 @@ function projects() {
               href="https://github.com/suhasBR/zku-final-project"
               passHref={true}
             >
-              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-extrabold tracking-wide cursor-pointer">
+              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-bold tracking-wide cursor-pointer">
                 zkEmailAuth
               </h2>
             </Link>
@@ -115,7 +115,7 @@ function projects() {
               href="https://showcase.ethglobal.com/hackmoney2022/defi-explorer-q7v72"
               passHref={true}
             >
-              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-extrabold tracking-wide cursor-pointer">
+              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-bold tracking-wide cursor-pointer">
                 Defi Explorer
               </h2>
             </Link>
@@ -150,7 +150,7 @@ function projects() {
               href="https://ethglobal.com/showcase/miner-pets-dao-snf41"
               passHref={true}
             >
-              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-extrabold tracking-wide cursor-pointer">
+              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-bold tracking-wide cursor-pointer">
                 Minerpets DAO
               </h2>
             </Link>
@@ -187,7 +187,7 @@ function projects() {
               href="https://github.com/suhasBR/delta-racers"
               passHref={true}
             >
-              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-extrabold tracking-wide cursor-pointer">
+              <h2 className="md:text-3xl lg:text-3xl xl:text-3xl text-2xl mb-4 font-bold tracking-wide cursor-pointer">
                 Delta Racers
               </h2>
             </Link>
