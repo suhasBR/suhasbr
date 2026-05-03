@@ -8,7 +8,7 @@ export function About() {
           </p>
           <div className="space-y-4 text-base text-muted-foreground leading-relaxed">
             <p>
-              I&apos;m a Solutions Engineer at Okta, working on Auth0&apos;s
+              I&apos;m a Solutions Engineer at Okta working on Auth0&apos;s
               Customer Identity platform and helping development teams across the US
               SMB segment get authentication and authorization right before it
               becomes a problem. Deep technical fluency across complex systems,
