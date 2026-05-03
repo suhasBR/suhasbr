@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:x.com)",
+      "WebFetch(domain:twitter.com)",
+      "Bash(npm install *)",
+      "Bash(npm run *)"
+    ]
+  }
+}
